@@ -7,7 +7,7 @@ This project explores what drives global happiness by analyzing lifestyle, envir
 Project Files:
 
 Global_Happiness_Report.pdf — Detailed analysis report with visualizations, methodology, and insights.
-healthy_lifestyle_analysis.py — Python code for data cleaning, model training, and evaluation.
+healthy_lifestyle_analysis.py: Python code for data cleaning, model training, and evaluation.
 
 Key Results:
 
